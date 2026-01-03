@@ -1,0 +1,5 @@
+Phillip K. Dick;1986;Do Androids Dream of Electric Sheep?
+Frank Herbert;1965;Dune
+William Gibson;1984;Neuromancer
+Richard K. Morgan;2002;Altered Carbon
+Allan Moore;1986;Watchmen

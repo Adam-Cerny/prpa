@@ -1,0 +1,4 @@
+Zadej pocet cisel pro nacteni: 4 7 5 2 1 9 6 
+Minimum: 1
+Maximum: 9
+Zadej skalar pro pricteni: 

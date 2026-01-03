@@ -1,0 +1,12 @@
+*.o
+*.exe
+program
+main
+*.out
+*.err
+*.zip
+*.bat
+/output.txt
+ukoly/*/program
+ukoly/*/main
+ukoly/*/*.o
